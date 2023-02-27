@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Ryclock's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryclock&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryclock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 - 🔭 Undergraduate of [HangDian University](https://www.hdu.edu.cn/)
 - 🌱 Perferring network security as well as data mining
 - 💬 Ask me about anything [here](https://github.com/Ryclock/Ryclock/issues) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryclock&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
